@@ -1,12 +1,27 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: black;
+    color: white
 }
 
-.Imglogo{
-    text-align: left;
-    margin: auto;
-    justify-content: left;
+.logo{
+    border: 100px;
+    margin: -13px;
+}
+header{
+    height: 85px;
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    margin: 26px;
+    
+}
+li{
+    list-style: none;
+    padding: 5px;
+
 }
 
 
